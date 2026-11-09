@@ -1,0 +1,31 @@
+﻿train_id,train_number,train_name,source,destination,departure_time,arrival_time,class_type,total_seats
+T001,12001,Passenger Bengaluru Mysuru,Bengaluru,Mysuru,13:15,12:30,Chair Car,600
+T002,12002,Intercity Bengaluru Chennai,Bengaluru,Chennai,20:15,05:00,2A,720
+T003,12003,Passenger Bengaluru Hyderabad,Bengaluru,Hyderabad,18:30,22:45,3A,600
+T004,12004,Mail Mysuru Chennai,Mysuru,Chennai,18:45,21:30,2A,800
+T005,12005,Mail Mangaluru Bengaluru,Mangaluru,Bengaluru,11:00,19:30,2A,800
+T006,12006,Superfast Hubballi Mumbai,Hubballi,Mumbai,08:30,05:00,General,600
+T007,12007,Superfast Chennai Coimbatore,Chennai,Coimbatore,13:45,22:00,Chair Car,800
+T008,12008,Superfast Hyderabad Vijayawada,Hyderabad,Vijayawada,04:45,14:15,Sleeper,720
+T009,12009,Intercity Mumbai Pune,Mumbai,Pune,17:45,17:15,3A,800
+T010,12010,Passenger Delhi Mumbai,Delhi,Mumbai,11:30,07:45,3A,720
+T011,12011,Superfast Kochi Bengaluru,Kochi,Bengaluru,21:30,18:15,Sleeper,600
+T012,12012,Intercity Belagavi Bengaluru,Belagavi,Bengaluru,13:00,19:45,2A,800
+T013,12013,Intercity Mysuru Mandya,Mysuru,Mandya,14:00,09:00,General,500
+T014,12014,Intercity Chennai Tirupati,Chennai,Tirupati,07:30,13:15,Chair Car,500
+T015,12015,Intercity Pune Hyderabad,Pune,Hyderabad,06:15,05:45,3A,720
+T016,12016,Passenger Bengaluru Mysuru,Bengaluru,Mysuru,13:45,16:45,Sleeper,720
+T017,12017,Express Bengaluru Chennai,Bengaluru,Chennai,08:00,13:45,Sleeper,800
+T018,12018,Intercity Bengaluru Hyderabad,Bengaluru,Hyderabad,10:30,17:00,Sleeper,600
+T019,12019,Passenger Mysuru Chennai,Mysuru,Chennai,18:15,06:15,Chair Car,500
+T020,12020,Mail Mangaluru Bengaluru,Mangaluru,Bengaluru,10:45,17:30,2A,600
+T021,12021,Express Hubballi Mumbai,Hubballi,Mumbai,21:00,13:45,2A,600
+T022,12022,Superfast Chennai Coimbatore,Chennai,Coimbatore,05:15,08:15,Chair Car,720
+T023,12023,Express Hyderabad Vijayawada,Hyderabad,Vijayawada,09:30,23:00,Chair Car,600
+T024,12024,Express Mumbai Pune,Mumbai,Pune,05:45,09:30,Sleeper,600
+T025,12025,Intercity Delhi Mumbai,Delhi,Mumbai,19:00,15:00,Sleeper,720
+T026,12026,Intercity Kochi Bengaluru,Kochi,Bengaluru,21:00,09:45,3A,720
+T027,12027,Mail Belagavi Bengaluru,Belagavi,Bengaluru,15:45,11:00,Chair Car,720
+T028,12028,Intercity Mysuru Mandya,Mysuru,Mandya,12:00,20:45,General,720
+T029,12029,Mail Chennai Tirupati,Chennai,Tirupati,19:15,23:15,General,720
+T030,12030,Superfast Pune Hyderabad,Pune,Hyderabad,18:30,22:15,Sleeper,600
